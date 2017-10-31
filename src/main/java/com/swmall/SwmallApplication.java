@@ -5,6 +5,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.transaction.annotation.EnableTransactionManagement;
 
+/**
+ * @author Administrator
+ * @date 2017/10/16/016.
+ */
 @SpringBootApplication
 //开启事务管理
 @EnableTransactionManagement
