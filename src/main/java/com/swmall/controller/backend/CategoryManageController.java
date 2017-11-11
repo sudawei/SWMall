@@ -20,7 +20,7 @@ import javax.servlet.http.HttpSession;
  * @date : 2017\11\9 0009 14:21
  */
 @RestController
-@RequestMapping("manage/category")
+@RequestMapping("/manage/category")
 public class CategoryManageController {
 
     @Autowired
